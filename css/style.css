@@ -39,3 +39,6 @@ a:active - a link the moment it is clicked */
 .nav:visited {
                color: #404bbf;
               }  
+.nav:active {
+               color: #404bbf;
+              }  
