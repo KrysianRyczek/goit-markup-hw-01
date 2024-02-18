@@ -3,6 +3,7 @@
   color: #434455;
   background-color: #FFFFFF;
 }
+/* HEADER */
 .logo-style {
     text-decoration: none;
     font-family: "Raleway", serif;
@@ -46,4 +47,15 @@ nav-link:active {
 }
 .address-link:active {
     color:#404bbf;
+}
+/* FISRT SECTION */
+.first-section-style {
+    background-color: #2e2f42;
+}
+.first-section-heading-one-style {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
