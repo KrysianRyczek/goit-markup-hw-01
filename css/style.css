@@ -7,10 +7,10 @@
  .logo {
                font-family: Raleway, sans-serif;
                font-weight: 700;
-               font-size: 18px;
+               font-size: 18 px;
                color: #4d5ae5;
                line-height: 1.17;
-               letter-spacing: 0.03rem;
+               letter-spacing: 0.03 rem;
                text-transform: uppercase;
               }  
 .sufix-logo {
@@ -25,11 +25,11 @@ a:active - a link the moment it is clicked */
 
  .nav {
                font-family: Raleway, sans-serif;
-               font-size: 16px;
+               font-size: 16 px;
                font-weight: 500;
                color: #2e2f42;
                line-height: 1.5;
-               letter-spacing: 0.02rem;
+               letter-spacing: 0.02 rem;
                text-transform: capitalize;
               }  
 .nav:hover {
@@ -52,10 +52,10 @@ a:active - a link the moment it is clicked */
 .footer-logo-style {
                font-family: Raleway, sans-serif;
                font-weight: 700;
-               font-size: 18px;
+               font-size: 18 px;
                color: #4d5ae5;
                line-height: 1.17;
-               letter-spacing: 0.03rem;
+               letter-spacing: 0.03 rem;
                text-transform: uppercase;
               }             
 .footer-sufix-logo-style{
@@ -64,5 +64,5 @@ a:active - a link the moment it is clicked */
 .footer-paragraf-style{
                      line-height: 1.5;
                      color: #F4F4FD;
-                     letter-spacing: 0.02rem;
+                     letter-spacing: 0.02 rem;
             }
