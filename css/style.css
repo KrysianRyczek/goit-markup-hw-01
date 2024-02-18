@@ -30,7 +30,7 @@
 .nav-link:hover {
     color:#404bbf; 
 }
-nav-link:active {
+nav-link:focus {
     color:#404bbf;
 }
 .address-norm {
@@ -75,3 +75,17 @@ nav-link:active {
 .ordering-button:focus {
     background-color: #404BBF;
 }
+/* SECOND SECTION */
+.second-section-heading-one-style {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.second-section-paragraf-one-style {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}   
