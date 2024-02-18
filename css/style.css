@@ -42,3 +42,6 @@ a:active - a link the moment it is clicked */
 .nav:active {
                color: #404bbf;
               }  
+.address-norm{
+               font-style: normal
+              }
