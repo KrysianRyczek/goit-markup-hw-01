@@ -26,3 +26,12 @@
     text-transform: uppercase;
     color: #2e2f42;
 }
+.nav-link-animation:visited {
+    color: #404bbf;
+}
+.nav-link-animation:hover {
+    color:#404bbf;
+}
+.adres-norm {
+    font-style: normal
+}
