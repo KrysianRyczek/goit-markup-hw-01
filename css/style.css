@@ -6,7 +6,7 @@
 /* HEADER */
 .logo-style {
     text-decoration: none;
-    font-family: "Raleway", serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -19,7 +19,7 @@
 }
 .nav-link{
     text-decoration: none;
-    font-family: "Raleway", serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -58,4 +58,20 @@ nav-link:active {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+}
+.ordering-button { 
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: auto;
+}
+.ordering-button:hover {
+    background-color: #404BBF;
+}
+.ordering-button:active {
+    background-color: #404BBF;
 }
