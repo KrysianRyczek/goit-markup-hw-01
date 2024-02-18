@@ -4,14 +4,14 @@
        background-color: #FFFFFF;
       }
  .logo {
-               font-family: Raleway, sans-serif;
-               font-weight: 700;
-               font-size: 18px;
-               line-height: 1.17;
-               letter-spacing: 0.03rem;
-               text-transform: uppercase;
-               color: #4d5ae5;
-              }  
+        font-family: Raleway, sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03rem;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        }  
 .sufix-logo {
              color: #2e2f42;
             }
@@ -29,18 +29,6 @@ a:active - a link the moment it is clicked */
                letter-spacing: 0.02 rem;
                text-transform: capitalize;
               }  
-.nav:hover {
-               color: #404bbf;
-              }  
-.nav:visited {
-               color: #404bbf;
-              }  
-.nav:active {
-               color: #404bbf;
-              }  
-.address-norm{
-               font-style: normal
-              }
 /* FIRST SECTION */
 .first-section-style{
     background-color: #2e2f42;
