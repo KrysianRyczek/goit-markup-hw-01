@@ -45,7 +45,7 @@ nav-link:active {
 .address-link:hover {
     color:#404bbf; 
 }
-.address-link:active {
+.address-link:focus {
     color:#404bbf;
 }
 /* FISRT SECTION */
@@ -72,6 +72,6 @@ nav-link:active {
 .ordering-button:hover {
     background-color: #404BBF;
 }
-.ordering-button:active {
+.ordering-button:focus {
     background-color: #404BBF;
 }
