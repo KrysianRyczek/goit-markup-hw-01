@@ -4,6 +4,7 @@
   background-color: #FFFFFF;
 }
 .logo-style {
+    text-decoration: none;
     font-family: "Raleway", serif;
     font-weight: 700;
     font-size: 18 px;
@@ -12,4 +13,7 @@
     text-transform: uppercase;
     color: #4d5ae5;
     
+}
+.logo-sufix {
+    color: #2e2f42;
 }
