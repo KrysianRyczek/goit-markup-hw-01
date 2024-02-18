@@ -44,6 +44,19 @@ a:active - a link the moment it is clicked */
 .address-norm{
                font-style: normal
               }
+/* FIRST SECTION */
+.first-section-style{
+    background-color: #2e2f42;
+}
+.first-section-heding-style{
+    font-size: 18 px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02 rem;
+    color: #ffffff
+}
+
+/* FOOTER STYLES */
 
 
 .footer-style{
