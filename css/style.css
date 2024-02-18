@@ -67,7 +67,7 @@ nav-link:active {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    cursor: auto;
+    cursor: pointer;
 }
 .ordering-button:hover {
     background-color: #404BBF;
