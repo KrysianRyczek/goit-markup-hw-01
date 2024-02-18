@@ -54,15 +54,15 @@ a:active - a link the moment it is clicked */
                font-weight: 700;
                font-size: 18px;
                color: #4d5ae5;
-               line-height: 1,17;
-               letter-spacing: 0,03rem;
+               line-height: 1.17;
+               letter-spacing: 0.03rem;
                text-transform: uppercase;
               }             
 .footer-sufix-logo-style{
               color: #f4f4fd;
             }
 .footer-paragraf-style{
-                     line-height: 1,5;
+                     line-height: 1.5;
                      color: #F4F4FD;
-                     letter-spacing: 0,02rem;
+                     letter-spacing: 0.02rem;
             }
