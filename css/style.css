@@ -117,3 +117,26 @@ nav-link:focus {
     letter-spacing: 0.02em;
     color: #434455;
 }
+/* FOURTH SECTION */
+
+/* FOOTER */
+.footer-style {
+    background-color: #2e2f42;
+}
+.footer-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.footer-logo-sufix {
+    color: #f4f4fd;
+}
+
+.footer-paragraf-style {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
