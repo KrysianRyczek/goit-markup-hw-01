@@ -141,29 +141,42 @@ nav-list-layout{
     letter-spacing: 0.02em;
     color: #434455;
 }   
-/* THIRD SECTION */
-.third-section {
+/* TEAM MEMBERS SECTION  */
+.team-section {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
-.third-section-heading-one {
+.team-section-heading {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
-.third-section-list {
+.tema-list-layout {
+    display: flex;
+    gap: 24px;
+}
+.team-item-list-layout {
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
-.third-section-list-heding {
+.team-item-container{
+    padding: 32px 16px;
+    text-align: center;
+}
+.teem-item-headings {
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;;
     color: #2e2f42;
 }
-.third-section-list-paragraf {
+.teem-item-paragrafs {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
