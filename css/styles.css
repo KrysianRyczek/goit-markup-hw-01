@@ -85,6 +85,7 @@ nav-list-layout{
     padding: 188px 0
 }
 .button-heding{
+    max-width: 496px;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
