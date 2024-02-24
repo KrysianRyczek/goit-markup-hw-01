@@ -158,6 +158,7 @@ nav-list-layout {
 .tema-list-layout {
     display: flex;
     gap: 24px;
+    padding: 32px 16px;
 }
 .team-item-list-layout {
     background-color: #FFFFFF;
