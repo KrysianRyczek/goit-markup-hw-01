@@ -113,15 +113,29 @@ nav-list-layout{
 .ordering-button:focus {
     background-color: #404BBF;
 }
-/* SECOND SECTION */
-.second-section-heading-one {
+/* UTILITYS SECTION */
+.utilitis {
+    padding: 120px 0;
+}
+.visually-hidden {
+    visibility: hidden;
+}
+.utilitis-list{
+    display: flex;
+    gap: 24px;
+}
+.utilitis-item-list {
+    width: calc((100% - 72px) / 4);
+}
+.utilitis-list-headings {
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.second-section-paragraf-one {
+.utilitis-list-paragrafs {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
