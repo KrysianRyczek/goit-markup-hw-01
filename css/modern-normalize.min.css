@@ -1,0 +1,53 @@
+.container {
+   width: 1158px;
+   margin: 0 auto;
+   padding: 0 15px;
+}
+img {
+  display: block;   
+  
+/* HEDER LAYOUT PROPERTY */
+}
+.heder{
+  border-bottom: 1px solid #e7e9fc
+}
+
+.hedre-div{
+    display: flex;
+}
+.nav-layout {
+    display: flex;
+    align-items: center;
+}
+.logo-layout{
+    margin-right: 76px;
+    
+}
+.nav-list-layout{
+    display: flex;
+    gap: 40px;
+}
+.nav-item-list-layout{
+    padding: 24px 0;
+}
+.address-layout {
+    display: flex;
+    gap: 40px;
+}
+
+/* ORDER BUTTON SECTION */
+.order-section-layout {
+padding: 188px 0
+}
+.order-h-layout {
+    max-width: 496px
+}
+.order-button-layout{
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
+}
