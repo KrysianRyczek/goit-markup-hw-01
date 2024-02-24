@@ -79,19 +79,25 @@ nav-list-layout{
 .address-link:focus {
     color:#404bbf;
 }
-/* FISRT SECTION */
-.first-section {
+/* ORDERING BUTTON SECTION */
+.button-section {
     background-color: #2e2f42;
+    padding: 188px 0
 }
-.first-section-heading-one {
+.button-heding{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.ordering-button { 
+.ordering-button {
+    display: block;
+    min-width: 169px;
+    height: 56px; 
     background-color: #4D5AE5;
+    border: none;
+    border-radius: 4px;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
