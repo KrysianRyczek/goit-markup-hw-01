@@ -8,7 +8,7 @@ img {
   
 /* HEDER LAYOUT PROPERTY */
 }
-.heder{
+.header{
   border-bottom: 1px solid #e7e9fc
 }
 
@@ -21,7 +21,7 @@ img {
 }
 .logo-layout{
     margin-right: 76px;
-    
+    padding: 24px 0
 }
 .nav-list-layout{
     display: flex;
