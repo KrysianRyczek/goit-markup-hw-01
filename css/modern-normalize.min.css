@@ -8,26 +8,25 @@ img {
   
 /* HEDER LAYOUT PROPERTY */
 }
-.header{
+.header {
   border-bottom: 1px solid #e7e9fc
 }
-
-.hedre-div{
+.hedre-div {
     display: flex;
 }
 .nav-layout {
     display: flex;
     align-items: center;
 }
-.logo-layout{
+.logo-layout {
     margin-right: 76px;
     padding: 24px 0
 }
-.nav-list-layout{
+.nav-list-layout {
     display: flex;
     gap: 40px;
 }
-.nav-item-list-layout{
+.nav-item-list-layout {
     padding: 24px 0;
 }
 .address-layout {
@@ -42,7 +41,7 @@ padding: 188px 0
 .order-h-layout {
     max-width: 496px
 }
-.order-button-layout{
+.order-button-layout {
     display: block;
     min-width: 169px;
     height: 56px;
@@ -53,10 +52,8 @@ padding: 188px 0
 }
 
 /* UTILITIS SECTION */
-.utilitis{
+.utilitis {
     padding: 120px 0;
-
-
 }
 .visually-hidden {
     visibility: hidden;
@@ -64,13 +61,24 @@ padding: 188px 0
 .utilitis-list{
     display: flex;
     gap: 24px;
-
 }
-.utilitis-item-list{
+.utilitis-item-list {
     width: calc((100% - 72px) / 4);
-    
+}
+.utilitis-list-heading {
+    margin-bottom: 8px;
 }
 
-.utilitis-list-heading{
-margin-bottom: 8px;
+/* UTILITIS SECTION */
+/* UTILITIS SECTION */
+/* FOOTER */
+.footer {
+    padding: 100px 0
+}
+.footer-link-layout {
+    display: inline-block;
+    margin-bottom: 16px; 
+}
+.footer-paragraf-layout {
+    max-width: 264px;
 }
