@@ -218,7 +218,7 @@ nav-list-layout {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px; 
-}
+} 
 .product-description-hedings {
     font-weight: 500;
     font-size: 20px;
@@ -226,6 +226,7 @@ nav-list-layout {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 8px; 
 }
 .product-description-paragrafs {
     font-size: 16px;
