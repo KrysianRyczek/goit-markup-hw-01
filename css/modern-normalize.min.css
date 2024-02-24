@@ -20,7 +20,7 @@ img {
 }
 .logo-layout {
     margin-right: 76px;
-    padding: 24px 0
+    padding: 24px 0;
 }
 .nav-list-layout {
     display: flex;
@@ -108,11 +108,11 @@ width: 1158px;
     margin-bottom: 72px;
 }
 .products-paragraf-layout{
-    margin-bottom: 8px
+    margin-bottom: 8px;
 }
 /* FOOTER */
 .footer {
-    padding: 100px 0
+    padding: 100px 0;
 }
 .footer-link-layout {
     display: inline-block;
