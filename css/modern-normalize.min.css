@@ -70,7 +70,13 @@ width: 1158px;
     margin-bottom: 8px;
 }
 
-/* UTILITIS SECTION */
+/* TEAM SECTION */
+.team-section {
+    padding: 120px 0;  
+}
+.team-section-heading {
+    margin-bottom: 72px;
+}
 /* UTILITIS SECTION */
 /* FOOTER */
 .footer {
