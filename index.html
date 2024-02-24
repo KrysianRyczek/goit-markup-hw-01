@@ -5,33 +5,38 @@
     <meta name="WEBSTUDIO" content="WEBSTUDIO" />
     <title>WEBSTUDIO</title>
     <link rel="stylesheet" type="text/css" href="./css/styles.css">
+    <link rel="stylesheet" type="text/css" href="./css/modern-normalize.min.css">
     <!-- "Raleway 700 Roboto 400 500 700" -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"> 
   </head>
-  <body class="web-site-style">
+  <body class="web-site-style ">
     <header>
-      <nav>
-        <a class="logo-style" href="./index.html">Web<span class="logo-sufix">Studio</span></a>
-        <ul>
-          <li><a class="nav-link" href="./index.html">Studio</a></li>
-          <li><a class="nav-link" href="">Portfolio</a></li>
-          <li><a class="nav-link" href="">Contacts</a></li>
-        </ul>
+    <div class="hedre-div container">
+      <nav class="nav-layout">
+        <a class="logo-style logo-layout" href="./index.html">Web<span class="logo-sufix">Studio</span></a>
+        <ul class="nav-list-layout">
+          <li class="nav-item-list-layout"><a class="nav-link" href="./index.html">Studio</a></li>
+          <li class="nav-item-list-layout"><a class="nav-link" href="">Portfolio</a></li>
+          <li class="nav-item-list-layout"><a class="nav-link" href="">Contacts</a></li>
+        </ulnav-list-layout>
       </nav>
       <address class="address-norm">
-        <ul>
+        <ul class="address-layout address-item">
           <li><a class="address-link" href="mailto:info@devstudio.com">info@devstudio.com</a></li> 
           <li><a class="address-link" href="tel:+110001111111">+11 (000) 111-11-11</a></li>
         </ul>
       </address>
+      </div>
     </header>
     <main>
       <!-- Section 1 -->
-      <section class="first-section-style">
-        <h1 class="first-section-heading-one-style">Effective Solutions for Your Business</h1>
-        <button class="ordering-button" type="button">Order Service</button>
+      <section class="first-section order-section-layout">
+        <div class="container">
+        <h1 class="first-section-heading-one order-h-layout">Effective Solutions for Your Business</h1>
+        <button class="ordering-button order-button-layout" type="button">Order Service</button>
+        </div>
       </section>
       <!-- Section 2 -->
       <section>
@@ -56,54 +61,54 @@
         </ul>
       </section>
       <!-- Section 3 -->
-      <section class="third-section-style ">
-        <h2 class="third-section-heading-one-style">Our Team</h2>
+      <section class="third-section ">
+        <h2 class="third-section-heading-one">Our Team</h2>
         <ul>
-          <li  class="third-section-list-style">
+          <li  class="third-section-list">
             <img
               src="./images/mark_guerrero.jpg"
               width="264"
               height="260"
               alt="Mark Guerrero photography"
             />
-            <h3 class="third-section-list-heding-style">Mark Guerrero</h3>
-            <p class="third-section-list-paragraf-style">Product Designer</p>
+            <h3 class="third-section-list-heding">Mark Guerrero</h3>
+            <p class="third-section-list-paragraf">Product Designer</p>
           </li>
-          <li  class="third-section-list-style">
+          <li  class="third-section-list">
             <img
               src="./images/tom_ford.jpg"
               width="264"
               height="260"
               alt="Tom Ford photography"
             />
-            <h3 class="third-section-list-heding-style">Tom Ford</h3>
-            <p class="third-section-list-paragraf-style">Frontend Developer</p>
+            <h3 class="third-section-list-heding">Tom Ford</h3>
+            <p class="third-section-list-paragraf">Frontend Developer</p>
           </li>
-          <li  class="third-section-list-style">
+          <li  class="third-section-list">
             <img
               src="./images/camila_garcia.jpg"
               width="264"
               height="260"
               alt="Camila Garcia photography"
             />
-            <h3 class="third-section-list-heding-style">Camila Garcia</h3>
-            <p class="third-section-list-paragraf-style">Marketing</p>
+            <h3 class="third-section-list-heding">Camila Garcia</h3>
+            <p class="third-section-list-paragraf">Marketing</p>
           </li>
-          <li  class="third-section-list-style">
+          <li  class="third-section-list">
             <img
               src="./images/daniel_wilson.jpg"
               width="264"
               height="260"
               alt="Daniel Wilson photography"
             />
-            <h3 class="third-section-list-heding-style">Daniel Wilson</h3>
-            <p class="third-section-list-paragraf-style">UI Designer</p>
+            <h3 class="third-section-list-heding">Daniel Wilson</h3>
+            <p class="third-section-list-paragraf">UI Designer</p>
           </li>
         </ul>
       </section>
       <!-- Section 4 -->
       <section>
-        <h2 class="fourth-section-heading-one-style">Our Portfolio</h2> 
+        <h2 class="fourth-section-heading-one">Our Portfolio</h2> 
         <ul>
           <li>
             <img
@@ -111,8 +116,8 @@
               width="360"
               alt="Banking App img"
             />
-            <h3 class="third-section-list-heding-style">Banking App</h3>
-            <p class="third-section-list-paragraf-style">App</p>            
+            <h3 class="third-section-list-heding">Banking App</h3>
+            <p class="third-section-list-paragraf">App</p>            
           </li>
           <li>
             <img
@@ -120,8 +125,8 @@
               width="360"
               alt="Cashless Payment img"
             />
-            <h3 class="third-section-list-heding-style">Cashless Payment</h3>
-            <p class="third-section-list-paragraf-style">Marketing</p>                
+            <h3 class="third-section-list-heding">Cashless Payment</h3>
+            <p class="third-section-list-paragraf">Marketing</p>                
           </li>
           <li>
             <img
@@ -129,8 +134,8 @@
               width="360"
               alt="Meditation App img"
             />
-            <h3 class="third-section-list-heding-style">Meditation App</h3>
-            <p class="third-section-list-paragraf-style">App</p>               
+            <h3 class="third-section-list-heding">Meditation App</h3>
+            <p class="third-section-list-paragraf">App</p>               
           </li>
           <li>
             <img
@@ -138,8 +143,8 @@
               width="360"
               alt="Taxi Service img"
             />
-            <h3 class="third-section-list-heding-style">Taxi Service</h3>
-            <p class="third-section-list-paragraf-style">Marketing</p>                
+            <h3 class="third-section-list-heding">Taxi Service</h3>
+            <p class="third-section-list-paragraf">Marketing</p>                
           </li>
           <li>
             <img
@@ -147,8 +152,8 @@
               width="360"
               alt="Screen Illustrations img"
             />
-            <h3 class="third-section-list-heding-style">Screen Illustrations</h3>
-            <p class="third-section-list-paragraf-style">Design</p>                
+            <h3 class="third-section-list-heding">Screen Illustrations</h3>
+            <p class="third-section-list-paragraf">Design</p>                
           </li>
           <li>
             <img
@@ -156,15 +161,17 @@
               width="360"
               alt="Screen Online Courses img"
             />
-            <h3 class="third-section-list-heding-style">Online Courses</h3>
-            <p class="third-section-list-paragraf-style">Marketing</p>                
+            <h3 class="third-section-list-heding">Online Courses</h3>
+            <p class="third-section-list-paragraf">Marketing</p>                
           </li>
         </ul>
       </section>
     </main>
     <footer class="footer-style ">
       <a class="footer-logo" href="./index.html">Web<span class="footer-logo-sufix">Studio</span></a>
-      <p class="footer-paragraf-style">Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
+      <p class="footer-paragraf">Increase the flow of customers and sales for your business with digital marketing & growth solutions.</p>
     </footer>
   </body>
-</html>
+</html> 
+
+
