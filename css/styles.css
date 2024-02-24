@@ -37,6 +37,7 @@
     font-style: normal;
 }
 .address-link {
+    text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -49,10 +50,10 @@
     color:#404bbf;
 }
 /* FISRT SECTION */
-.first-section-style {
+.first-section {
     background-color: #2e2f42;
 }
-.first-section-heading-one-style {
+.first-section-heading-one {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -76,24 +77,24 @@
     background-color: #404BBF;
 }
 /* SECOND SECTION */
-.second-section-heading-one-style {
+.second-section-heading-one {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.second-section-paragraf-one-style {
+.second-section-paragraf-one {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }   
 /* THIRD SECTION */
-.third-section-style {
+.third-section {
     background-color: #F4F4FD;
 }
-.third-section-heading-one-style {
+.third-section-heading-one {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -101,24 +102,24 @@
     text-transform: capitalize;
     color: #2e2f42;
 }
-.third-section-list-style {
+.third-section-list {
     background-color: #FFFFFF;
 }
-.third-section-list-heding-style {
+.third-section-list-heding {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;;
     color: #2e2f42;
 }
-.third-section-list-paragraf-style {
+.third-section-list-paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 /* FOURTH SECTION */
-.fourth-section-heading-one-style {
+.fourth-section-heading-one {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -126,7 +127,7 @@
     text-transform: capitalize;
     color: #2e2f42;
 }
-.fourth-section-list-heding-style {
+.fourth-section-list-heding {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -134,7 +135,7 @@
     text-transform: capitalize;
     color: #2e2f42;
 }
-.fourth-section-list-paragraf-style {
+.fourth-section-list-paragraf {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -159,7 +160,7 @@
     color: #f4f4fd;
 }
 
-.footer-paragraf-style {
+.footer-paragraf {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
