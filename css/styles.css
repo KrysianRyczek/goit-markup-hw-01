@@ -19,7 +19,9 @@ img {
   padding: 0 15px;
   border-bottom: 1px solid #e7e9fc
 }
-
+nav{
+  align-items: center;  
+}
 .logo-style {
     text-decoration: none;
     font-family: "Raleway", sans-serif;
