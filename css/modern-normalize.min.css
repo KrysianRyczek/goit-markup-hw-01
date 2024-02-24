@@ -51,3 +51,15 @@ padding: 188px 0
     border-radius: 4px;
     cursor: pointer;
 }
+
+/* UTILITIS SECTION */
+.utilitis{
+    padding: 120px 0;
+
+}
+.visually-hidden {
+ visibility: hidden;
+}
+.utilitis-list{
+    display: flex;
+}
