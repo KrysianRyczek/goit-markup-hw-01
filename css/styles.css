@@ -114,20 +114,20 @@ nav-list-layout{
     background-color: #404BBF;
 }
 /* UTILITYS SECTION */
-.utilitis {
+.utilities {
     padding: 120px 0;
 }
 .visually-hidden {
     visibility: hidden;
 }
-.utilitis-list{
+.utilities-list{
     display: flex;
     gap: 24px;
 }
-.utilitis-item-list {
+.utilities-item-list {
     width: calc((100% - 72px) / 4);
 }
-.utilitis-list-headings {
+.utilities-list-headings {
     margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
@@ -135,7 +135,7 @@ nav-list-layout{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.utilitis-list-paragrafs {
+.utilities-list-paragrafs {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
