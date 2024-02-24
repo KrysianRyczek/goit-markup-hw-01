@@ -37,6 +37,9 @@ nav{
 .logo-sufix {
     color: #2e2f42;
 }
+nav-list-layout{
+     gap: 40px
+}
 .nav-link{
     text-decoration: none;
     font-family: "Raleway", sans-serif;
