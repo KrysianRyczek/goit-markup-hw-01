@@ -11,14 +11,15 @@ img {
    margin: 0 auto;
    padding: 0 15px;
 }
+.disply-flex {
+    display: flex;
+}
 /* HEADER */
 .header {
   padding: 0 15px;
   border-bottom: 1px solid #e7e9fc
 }
-.hedre-layout {
-    display: flex;
-}
+
 .logo-style {
     text-decoration: none;
     font-family: "Raleway", sans-serif;
