@@ -9,6 +9,7 @@ img {
 /* HEDER LAYOUT PROPERTY */
 }
 .header {
+  padding: 0 15px;
   border-bottom: 1px solid #e7e9fc
 }
 .hedre-div {
