@@ -98,8 +98,9 @@ width: 1158px;
     padding-top: 120px; 
     padding-bottom: 120px;
 }
-
-
+.products-heding-layout{
+    margin-bottom: 72px;
+}
 
 /* FOOTER */
 .footer {
