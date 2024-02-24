@@ -77,9 +77,15 @@ width: 1158px;
 .team-section-heading {
     margin-bottom: 72px;
 }
-.tema-list-layout{
+.tema-list-layout {
     display: flex;
     gap: 24px;
+}
+.tema-item-list-layout {
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+
+
 }
 /* UTILITIS SECTION */
 /* FOOTER */
