@@ -186,6 +186,7 @@ nav-list-layout {
     text-align: center;
 }
 .teem-item-headings {
+    margin:0;
     margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
@@ -194,7 +195,7 @@ nav-list-layout {
     color: #2e2f42;
 }
 .teem-item-paragrafs {
-    
+    margin:0;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
