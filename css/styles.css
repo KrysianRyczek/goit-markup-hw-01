@@ -12,6 +12,8 @@ img {
    padding: 0 15px;
 }
 .disply-flex {
+    
+    list-style-type: none;
     display: flex;
 }
 .right-gap-forty {
@@ -130,6 +132,8 @@ nav-list-layout {
     overflow: hidden;
 }
 .utilities-list {
+    padding: 0;
+    list-style-type: none;
     display: flex;
     gap: 24px;
 }
@@ -165,10 +169,12 @@ nav-list-layout {
     margin-bottom: 72px;
 }
 .tema-list-layout {
+    padding: 0;
     display: flex;
     gap: 24px;
 }
 .team-item-list-layout {
+    list-style-type: none;
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
     width: calc((100%-72px)/4)
@@ -205,6 +211,8 @@ nav-list-layout {
     margin-bottom: 72px;
 }
 .products-list {
+    padding: 0;
+    list-style-type: none;
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
