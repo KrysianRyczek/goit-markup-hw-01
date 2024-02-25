@@ -181,6 +181,7 @@ nav-list-layout {
     width: calc((100%-72px)/4)
 }
 .team-item-container {
+    margin:0;
     padding: 32px 16px;
     text-align: center;
 }
