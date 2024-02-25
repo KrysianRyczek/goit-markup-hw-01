@@ -225,10 +225,8 @@ nav-list-layout {
     row-gap: 48px;
     
 }
-.product-item {
-    margin:0;
-    /* width:360; */
-    width: calc((100%-48px)/3)
+.product-item {  
+    width: calc((100%-48px)/3) */
 }
 .product-description {
     margin:0;
