@@ -181,6 +181,7 @@ nav-list-layout {
     width: calc((100%-72px)/4)
 }
 .team-item-container {
+    padding: 32px 16px;
     text-align: center;
 }
 .teem-item-headings {
@@ -192,7 +193,7 @@ nav-list-layout {
     color: #2e2f42;
 }
 .teem-item-paragrafs {
-    padding: 32px 16px;
+    
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
