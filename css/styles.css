@@ -509,7 +509,7 @@ nav-list-layout {
     
 }
 .product-item {  
-    width: calc((100% - 40px) / 3)
+    width: calc((100% - 48px) / 3)
 }
 .product-description {
     max-width:360px;
