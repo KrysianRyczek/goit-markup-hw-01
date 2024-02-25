@@ -466,7 +466,7 @@ nav-list-layout {
 }
 .team-item-container {
     margin:0;
-    padding: 32px 16px;
+    padding: 32px 0;
     text-align: center;
 }
 .teem-item-headings {
